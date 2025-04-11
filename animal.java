@@ -8,6 +8,7 @@ package all;
        {
            System.out.println(color);
            System.out.println(super.color);
+           System.out.println(Hello);
        }
        
     }
